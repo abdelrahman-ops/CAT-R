@@ -1,5 +1,5 @@
 const Vehicle = require('./vehicle');
-const Bicycle = require('./bicycle');
+const Bicycle = require('./CAT-R/bicycle');
 
 // vehicle
 const myCar = new Vehicle("red", 4, "vroom vroom");
